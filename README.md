@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-DataZone is a web-based AI project developed for a university semester project. It helps users identify plant diseases by uploading a leaf image. A trained Convolutional Neural Network (CNN) analyzes the image and returns the predicted disease, a confidence score, and a treatment plan.
+DataZone is a web-based AI project developed for a university 7the  semester  subject AI project. It helps users identify plant diseases by uploading a leaf image that infected . A trained Convolutional Neural Network (CNN) analyzes the image and returns the predicted disease, a confidence score, and a treatment plan and treatment is medicall and desi  this project is good for farmers .
 
 Built using Python, Streamlit, and TensorFlow/Keras.
 
