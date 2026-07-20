@@ -66,6 +66,7 @@ PlantDiseaseProject/
 │   └── secrets.toml          # Groq API key (not committed to git)
 └── README.md
 ```
+### files are but sequence not matched 
 
 ## Setup Instructions
 
